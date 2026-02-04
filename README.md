@@ -145,9 +145,3 @@ jupyter notebook 2025AA05333_rnn_assignment.ipynb
 For academic and educational use.
 
 ---
-
-If you'd like, I can also generate:
-
-* A shorter resume-style project description
-* A LinkedIn project summary
-* A project poster abstract
